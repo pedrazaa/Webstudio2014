@@ -1,0 +1,46 @@
+h1 {
+	color: #cccccc;
+    text-align: center ;
+}
+
+
+.columns-text {
+	font-size: 12px;
+	color:#000;
+}
+
+.header { 
+	background-color:blue ;}
+
+IMG.displayed {
+	display: block;
+	float: left;
+	width: 50%;
+	}
+
+.text-highlighted{
+	float: right;
+	width: 50%;
+}
+
+.column-left {
+	float: left;
+	width: 30%;
+}
+
+.column-center {
+	float: left;
+	width: 30%;
+}
+
+.column-right {
+	float: left;
+	width: 30%;
+}
+.clear{
+	clear: both;
+}
+.hilighted{
+	float: left;
+	width: 100%;
+}
