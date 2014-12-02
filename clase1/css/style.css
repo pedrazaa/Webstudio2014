@@ -3,10 +3,16 @@ h1 {
     text-align: center ;
 }
 
-IMG.displayed {
+h4 {
+	color: #cccccc;
+    text-align: center ;
+}
+img.photo {
 	display: block;
 	margin-left: auto;
-	margin-right: auto ;
-	width: 100 px;
-	border-radius: 25 px
+	margin-right: auto;
+	border-radius: 30px; 
+	width: 110px;
 	}
+
+	
